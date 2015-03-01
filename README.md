@@ -7,6 +7,8 @@ Note: All brand icons are trademarks of their respective owners. The use of thes
 Check the demo.html file include in this project to see which brands (languages, operational systems logo, frameworks are part of the content).
 
 We’ve also included each icon’s class name for easy copy/pasting when you’re developing!
+Here an example of brands:
+<img src="http://s19.postimg.org/7xb3mfspv/fonts.png" title="Preview">
 
 
 <h1>Install</h1>
