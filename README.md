@@ -1,5 +1,7 @@
 # fpg
 <h1>Font Programming Icons/Glyphs</h1>
+The goal of this package is to provide a set of web fonts for direct use via CSS for programming/technology-facing sites, where the user needs to display trademarks, software and operating systems matter co-related through its pages.
+
 Note: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement of the trademark holder by Drifty, nor vice versa.
 
 Check the demo.html file include in this project to see which brands (languages, operational systems logo, frameworks are part of the content).
