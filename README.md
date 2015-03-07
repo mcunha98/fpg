@@ -24,7 +24,7 @@ Include a reference to the /fpg/style.css file from every webpage you need to us
 
 You can use the sample under /demo to easily find the icon you want to use. Once you've copied the desired icon's CSS classname, simply add the icon and icon's classname, such as ion-home to an HTML element.
 
-<span class="fpg-access"></span>
+&lt;span class="fpg-access"&gt;&lt;/span&gt;
 
 <h1>License</h1>
 
